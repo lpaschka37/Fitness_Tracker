@@ -16,7 +16,7 @@ Workout tracker to help you track your daily workout routine.
 
 ## Install Instructions
 
-Navigate to (heroku link)
+Navigate to (https://stormy-sea-78701.herokuapp.com/)
   
 ## Usage Instructions
 Use the links in the navbar to navigate the Fitnees Tracker application.
@@ -25,13 +25,13 @@ Use the links in the navbar to navigate the Fitnees Tracker application.
 
 From the home page, select New Workout to create a new workout. If you have an exisitng workout, select Continue to add to that workout.
 
-<img src="./17-NoSQL/04-Important/assets/images-readme/iworkout.PNG" width=500>
+<img src="./public/Main_Page.png" width=500>
 
 ## Dashboard
 
 Once you've recorded your workout, select Dashboard to view your iWorkout dashboard, complete with a multitude of charts to help you review and analyze your workout routine.
 
-<img src="./17-NoSQL/04-Important/assets/images-readme/dashboard.PNG" width=500/>
+<img src="./public/Graph_Page.png" width=500/>
 
 ## License
   
